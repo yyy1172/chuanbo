@@ -83,7 +83,24 @@
 }
 .line{
     justify-content: space-between;
+    margin: 10px 0;
 }
+
+.flex-left{
+    width: 30%;
+    background-color: #E0E3DF;
+}
+.flex-left-item{
+    padding: 20px 0;
+    text-align: center;
+    font-weight: 600;
+}
+.flex-right{
+    width: 60%;
+    height: 306px;
+    border: 1px solid #000;
+}
+
 .l-left{
 width: 30%;
 }
